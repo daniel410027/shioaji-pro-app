@@ -13,6 +13,9 @@ __pycache__/
 .env.local
 .env.*.local
 
+# CA certificates
+*.pfx
+
 # Logs
 *.log
 
